@@ -1,4 +1,4 @@
-1- SecureHttpServer.py
+SecureHttpServer.py
 Usage: Usage: SecureHTTPServer.py [port] [username:password]
 
 
